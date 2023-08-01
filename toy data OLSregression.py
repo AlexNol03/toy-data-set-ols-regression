@@ -22,7 +22,7 @@ import statsmodels.api as sm
 import pandas as pd
 import numpy as np
 from os import chdir
-chdir('/Users/torqu/Documents/Code/CIS')
+chdir('/Users/be/Downloads')
 
 # reading data from the csv
 data = pd.read_csv('toyDataset.csv')
